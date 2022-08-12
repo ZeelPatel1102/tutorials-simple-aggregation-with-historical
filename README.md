@@ -16,7 +16,7 @@ yarn build
 
 #### Run required systems in docker
 
-Under the project director run following commands within the docker folder:
+Under the project directory run following commands within the docker folder:
 
 ```
 cd docker
